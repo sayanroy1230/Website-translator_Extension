@@ -1,0 +1,22 @@
+{
+    "name": "English to Hindi Website Translator Extension",
+    "description": "Translate websites into Hindi.",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "128": "tran_128.png"
+        }
+    },
+    "icons": {
+        "128": "tran_128.png"
+    },
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "js": ["script.js"]
+        }
+      ]
+
+}
