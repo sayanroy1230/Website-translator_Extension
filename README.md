@@ -1,2 +1,1 @@
-https://chromewebstore.google.com/detail/english-to-hindi-website/pakldielmleojeiigaajpjjahpekfgcf?hl=en-GB&authuser=0
-<br>Click on the above link to download and Use the Chrome Extension
+[Click on this link](https://chromewebstore.google.com/detail/english-to-hindi-website/pakldielmleojeiigaajpjjahpekfgcf?hl=en-GB&authuser=0) to download and Use the Chrome Extension
