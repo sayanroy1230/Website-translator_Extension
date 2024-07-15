@@ -24,9 +24,8 @@ A browser extension that translates websites into different languages.
     cd Website-translator_Extension
     ```
 
-3. Follow the browser-specific instructions to load the extension:
 
-## For Chrome
+## Follow the instructions to load the extension in Chrome:
 
 1. Open Chrome and go to `chrome://extensions/`.
 2. Enable "Developer mode" in the top right corner.
