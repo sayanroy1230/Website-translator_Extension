@@ -1,5 +1,3 @@
-[Click on this link](https://chromewebstore.google.com/detail/english-to-hindi-website/pakldielmleojeiigaajpjjahpekfgcf?hl=en-GB&authuser=0) to download and Use the Chrome Extension
-
 # Website Translator Extension
 
 A browser extension that translates websites from english to hindi language.
@@ -14,6 +12,9 @@ A browser extension that translates websites from english to hindi language.
 - HTML
 - CSS
 - JS
+
+## Usage
+[Click on this link](https://chromewebstore.google.com/detail/english-to-hindi-website/pakldielmleojeiigaajpjjahpekfgcf?hl=en-GB&authuser=0) to download and Use the Chrome Extension
 
 ## Installation
 
