@@ -9,6 +9,12 @@ A browser extension that translates websites from english to hindi language.
 - Translates web pages into hindi language
 - User-friendly interface
 
+## Technologies Used
+
+- HTML
+- CSS
+- JS
+
 ## Installation
 
 1. Clone the repository:
