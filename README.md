@@ -2,13 +2,12 @@
 
 # Website Translator Extension
 
-A browser extension that translates websites into different languages.
+A browser extension that translates websites from english to hindi language.
 
 ## Features
 
-- Translates web pages into multiple languages
+- Translates web pages into hindi language
 - User-friendly interface
-- Supports a wide range of languages
 
 ## Installation
 
